@@ -1,4 +1,4 @@
-from ARISHFA_MUSIC.core.bot import ARISHFA
+from ARISHFA_MUSIC.core.bot import 
 from ARISHFA_MUSIC.core.dir import dirr
 from ARISHFA_MUSIC.core.git import git
 from ARISHFA_MUSIC.core.userbot import Userbot
